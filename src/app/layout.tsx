@@ -6,7 +6,7 @@ const notoSansBengali = Noto_Sans_Bengali({
   subsets: ["latin", "bengali"],
   weight:["300", "400", "500", "600", "700"],
   display: "swap",
-  variable: "--font-noto-serif-bengali",
+  variable: "--font-noto-sans-bengali",
 });
 
 export const metadata: Metadata = {
